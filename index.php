@@ -8,19 +8,11 @@
 	<div class="wrap">
 		<div class="header">			
 			<center><h1>Ganjar's Website</h1>
-				<p>Ini ada;ah websote pribadi saya</p></center>
-		</div>
-		<div class="menu">
-			<ul>
-				<li><a href="#">My Project</a></li>
-				<li><a href="#">About Me </a></li>
-				<li><a href="#">Ask Me !</a></li>
-								
-			</ul>
+				<p>Ini adalah websote pribadi saya</p></center>
 		</div>
 		<div class="badan">			
 			<div class="sidebar">
-				sidebar
+				
 				<ul>
 					<li><a href="#">My Project</a></li>
 					<li><a href="#">About Me </a></li>
@@ -28,12 +20,17 @@
 				</ul>
 			</div>
 			<div class="content">
-				content
+				
 			</div>
 		</div>
 		<div class="clear"></div>
 		<div class="footer">
-			footer
+			<ul>
+				<a href="https://www.facebook.com/ganjarrllavinchii.simaowes/">Facebook</a></li>
+				<a href="https://www.instagram.com/itsyourmom_biach/">instagram  </a></li>
+				<a href="https://dashboard.heroku.com/apps/webpribadi156/deploy/github">Github !</a></li>
+								
+			</ul>
 		</div>
 	</div>
 </body>
