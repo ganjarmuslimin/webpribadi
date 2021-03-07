@@ -1,20 +1,20 @@
 <html>
 <head>
-	<title></title>
+	<title>Ganjar Muslimin</title>
 	<link rel="stylesheet" type="text/css" href="webpribadi.css">
 
 </head>
 <body data-rsssl=1>
 	<div class="wrap">
 		<div class="header">			
-			<h1>Malas Ngoding</h1>
-			<p>Tutorial</p>
+			<h1>Ganjar's Website</h1>
+			<p>Ini ada;ah websote pribadi saya</p>
 		</div>
 		<div class="menu">
 			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">HTML</a></li>
-				<li><a href="#">CSS</a></li>
+				<li><a href="#">My Project</a></li>
+				<li><a href="#">About Me </a></li>
+				<li><a href="#">Ask Me </a></li>
 				<li><a href="#">PHP</a></li>
 				<li><a href="#">Javascript</a></li>				
 			</ul>
