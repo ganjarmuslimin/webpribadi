@@ -42,7 +42,7 @@
 }
 /*bagian sidebar*/
 .wrap .badan .sidebar{
-	background: orange;
+	background: #33E0FF;
 	float: left;	
 	width: 25%;
 	height: 100%;
@@ -51,7 +51,7 @@
 /*akhir sidebar*/
 
 .wrap .badan .content{
-	background: red;
+	background: white;
 	float: left;
 	height: 100%;
 	width: 75%;	
