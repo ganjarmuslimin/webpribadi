@@ -82,7 +82,7 @@ tr:nth-child(even) {
 }
 
 input[type=text], select, textarea {
-  width: 50%;
+  width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
