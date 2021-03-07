@@ -2,10 +2,7 @@
 <head>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="webpribadi.css">
-<link rel="dns-prefetch" href="//fonts.googleapis.com" />
-<link rel="dns-prefetch" href="//fonts.gstatic.com" />
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Open Sans:400,500,600,700&display=swap" />
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans:400,500,600,700&display=swap" media="print" onload="this.media='all'">
+
 </head>
 <body data-rsssl=1>
 	<div class="wrap">
