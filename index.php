@@ -14,8 +14,8 @@
 			<div class="sidebar">
 				
 				<ul>
-					<li><a href="#">My Project</a></li>
-					<li><a href="#">About Me </a></li>
+					<li><a href="index.php">My Project</a></li>
+					<li><a href="aboutme.html">About Me </a></li>
 					<li><a href="askme.html">Ask Me !</a></li>				
 				</ul>
 			</div>
