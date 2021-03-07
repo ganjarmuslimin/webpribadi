@@ -11,7 +11,7 @@
 	<div class="wrap">
 		<div class="header">			
 			<h1>Malas Ngoding</h1>
-			<p>Tutorial belajar membuat layout website sederhana</p>
+			<p>Tutorial</p>
 		</div>
 		<div class="menu">
 			<ul>
