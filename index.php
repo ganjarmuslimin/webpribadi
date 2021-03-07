@@ -22,10 +22,9 @@
 			<div class="sidebar">
 				sidebar
 				<ul>
-					<li><a href="#">Tutorial HTML dasar</a></li>
-					<li><a href="#">Tutorial CSS dasar</a></li>
-					<li><a href="#">Tutorial PHP dasar</a></li>
-					<li><a href="#">Tutorial JQuery dasar</a></li>				
+					<li><a href="#">My Project</a></li>
+					<li><a href="#">About Me </a></li>
+					<li><a href="#">Ask Me !</a></li>				
 				</ul>
 			</div>
 			<div class="content">
