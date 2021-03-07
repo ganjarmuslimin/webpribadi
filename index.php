@@ -20,23 +20,33 @@
 				</ul>
 			</div>
 			<div class="content">
+				<h2> My Project </h2>
 				<table>
- 					 <tr>
-   						 <th>Company</th>
-   						 <th>Contact</th>
-   						 <th>Country</th>
+ 					<tr>
+   						 <th>No</th>
+   						 <th>Project</th>
+   						 <th>As</th>
+						 <th>Description</th>
  						 </tr>
- 					 <tr>
-  						  <td>Alfreds Futterkiste</td>
-   						 <td>Maria Anders</td>
-  						  <td>Germany</td>
+ 					<tr>
+  						 <td>1</td>
+   						 <td>Aplikasi android</td>
+  						 <td>Developer</td>
+						 <td>Membuat aplikasi menghitung rumus berbasis android</td>
   					</tr>
- 					 <tr>
-						 <td>Centro comercial Moctezuma</td>
-						 <td>Francisco Chang</td>
-						 <td>Mexico</td>
- 					 </tr>
-				</table
+ 					<tr>
+						 <td>2</td>
+						 <td>Mengolah halaman Web</td>
+						 <td>Designer</td>
+						 <td>Mengolah halaman FAQ</td>
+ 					</tr>
+					<tr>
+						 <td>3</td>
+						 <td>Mesin Portal </td>
+						 <td>Pembuat dan Design</td>
+						 <td>Membiuat mesin portal kecil arduino</td>
+ 					</tr>
+				</table>
 				
 			</div>
 		</div>
