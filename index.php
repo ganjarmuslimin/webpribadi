@@ -16,7 +16,7 @@
 				<ul>
 					<li><a href="#">My Project</a></li>
 					<li><a href="#">About Me </a></li>
-					<li><a href="#">Ask Me !</a></li>				
+					<li><a href="askme.html">Ask Me !</a></li>				
 				</ul>
 			</div>
 			<div class="content">
